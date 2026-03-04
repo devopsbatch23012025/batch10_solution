@@ -1,0 +1,3 @@
+ Git fetch > It will just download the code from remote
+ Git Pull > It will download the chnages and merge to current branch. Internally
+ it runs git fetch > git merge
